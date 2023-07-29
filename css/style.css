@@ -84,7 +84,7 @@ body {
 
 .header {
 
-    background: url(../../img/bg-01-free-img.jpg) no-repeat;
+    background: url(../img/bg-01-free-img.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -223,7 +223,7 @@ body {
     /* background: #f2f2f2; */
     margin-top: 50px;
     padding-bottom: 200px;
-    background: url(../../img/logo-retina-free-img.png) #f2f2f2;
+    background: url(../img/logo-retina-free-img.png) #f2f2f2;
     background-size: 500px auto;
     background-repeat: no-repeat repeat;
     background-position: bottom center;
@@ -292,7 +292,7 @@ body {
 
 .visit-main {
 
-    background: url(../../img/bg-03-free-img.jpg) no-repeat;
+    background: url(../img/bg-03-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-bottom: 150px;
@@ -832,7 +832,7 @@ body {
 
 .abt-header {
 
-    background: url(../../img/bg-02-free-img.jpg) no-repeat;
+    background: url(../img/bg-02-free-img.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1019,7 +1019,7 @@ body {
 
 .abt-visit-main {
 
-    background: url(../../img/bg-14-free-img.jpg) no-repeat;
+    background: url(../img/bg-14-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin-top: 150px;
@@ -1044,7 +1044,7 @@ body {
 
 .abt-visit-main .abt-visit-content {
 
-    background: url(../../img/bg-13-free-img.png) #d72151;
+    background: url(../img/bg-13-free-img.png) #d72151;
     background-repeat: no-repeat no-repeat;
     background-size: cover auto;
     background-position: right top;
@@ -1123,7 +1123,7 @@ body {
 
 .offer-header {
 
-    background: url(../../img/bg-04-free-img.jpg) no-repeat;
+    background: url(../img/bg-04-free-img.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1496,7 +1496,7 @@ body {
 
 .menu-header {
 
-    background: url(../../img/gallery-05-free-img.jpg) no-repeat;
+    background: url(../img/gallery-05-free-img.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1686,7 +1686,7 @@ body {
 
 .gallary-header {
 
-    background: url(../../img/bg-12-free-img.jpg) no-repeat;
+    background: url(../img/bg-12-free-img.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1838,7 +1838,7 @@ body {
 
 .contact-header {
 
-    background: url(../../img/bg-12-free-img.jpg) no-repeat;
+    background: url(../img/bg-12-free-img.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -2072,7 +2072,7 @@ body {
 
 .contact-middle-img {
 
-    background: url(../../img/bg-15-free-img.jpg) no-repeat;
+    background: url(../img/bg-15-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     position: relative;
